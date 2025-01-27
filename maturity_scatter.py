@@ -65,11 +65,10 @@ plt.show()
 
 # Explanation and further analysis
 '''
-I noticed that when plotting the average daily depth behavior over time, the immature skates seemed to follow a less consistent
- pattern compared to the mature skates. This observation led me to investigate the potential reasons behind this difference.
-To explore this, I performed a covariance analysis based on the parameters of a sinusoidal model fitted to the daily depth data
- for both mature and immature skates. The covariance matrices of these fitted parameters provided insight into whether immature 
- skates exhibited less predictable behavior than mature skates.
+I noticed that when plotting the average daily depth behavior over a year, the immature skates seemed to follow a less consistent
+ pattern than the mature skates. To explore this, I performed a covariance analysis based on the parameters of a sinusoidal model 
+ fitted to the daily depth data for both mature and immature skates. The covariance matrices of these fitted parameters provided 
+ insight into whether immature skates exhibited less predictable behavior than mature skates.
 '''
 
 # Sinusoidal model for curve fitting
